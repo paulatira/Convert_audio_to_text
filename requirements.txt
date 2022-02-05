@@ -1,0 +1,4 @@
+PyAudio @ file:///C:/Users/Paula/pipwin/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
+pyparsing==2.4.7
+pytz==2020.1
+SpeechRecognition @ file:///C:/Users/Paula/Desktop/Proiect/venv/Scripts/SpeechRecognition-3.8.1-py2.py3-none-any.whl
